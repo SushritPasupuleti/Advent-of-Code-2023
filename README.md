@@ -7,3 +7,7 @@ Progress:
 - [x] Day 1 - `./day-1`
     - [x] Part 1
     - [x] Part 2
+
+- [x] Day 2 - `./day-2`
+    - [x] Part 1
+    - [x] Part 2
