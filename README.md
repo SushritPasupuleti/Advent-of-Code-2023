@@ -17,3 +17,6 @@ Progress:
 - [x] Day 4 - `./day-4`
     - [x] Part 1
     - [x] Part 2
+- [x] Day 5 - `./day-5`
+    - [x] Part 1
+    - [x] Part 2
