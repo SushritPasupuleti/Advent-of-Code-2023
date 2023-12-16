@@ -38,3 +38,6 @@ Progress:
 - [x] Day 11 - `./day-11`
     - [x] Part 1
     - [x] Part 2
+- [x] Day 12 - `./day-12`
+    - [x] Part 1
+    - [x] Part 2
